@@ -7,6 +7,7 @@ public class SentenceChecker {
 	/**
 	 * Method capitalStart returns takes a parameter of type string.
 	 * 
+	 * 
 	 * It returns false if the first character or the string is not a capital
 	 * letter, and true if it is.
 	 * 
